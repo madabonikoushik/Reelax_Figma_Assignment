@@ -20,12 +20,12 @@ function BillingForm() {
 
         <InputField
           label="Company Name"
-          placeholder="abhigyan"
+          placeholder="koushik madaboni"
         />
 
         <InputField
           label="Email"
-          placeholder="abc@gmail.com"
+          placeholder="koushikmadaboni@gmail.com"
         />
 
         <InputField
