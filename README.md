@@ -3,7 +3,7 @@
 A high-fidelity, responsive implementation of the design assignment using React JS and Tailwind CSS.
 
 ## 🚀 Live Demo
-- **Hosted App:** Add your deployment link here once available.
+- **Hosted App:** https://splendid-pothos-03a737.netlify.app/.
 
 ## 🛠️ Tech Stack & Key Choices
 - **Build Engine:** Vite (Optimized production asset bundles)
