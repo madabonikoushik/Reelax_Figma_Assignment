@@ -4,8 +4,6 @@ A high-fidelity, responsive implementation of the design assignment using React 
 
 ##  Live Demo
 - **Hosted App:** https://splendid-pothos-03a737.netlify.app/.
-## Screenshot
--
 ## Tech Stack & Key Choices
 - **Build Engine:** Vite (Optimized production asset bundles)
 - **Framework:** React JS (Modular component tree)
