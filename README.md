@@ -2,27 +2,28 @@
 
 A high-fidelity, responsive implementation of the design assignment using React JS and Tailwind CSS.
 
-## 🚀 Live Demo
+##  Live Demo
 - **Hosted App:** https://splendid-pothos-03a737.netlify.app/.
-
-## 🛠️ Tech Stack & Key Choices
+## Screenshot
+-
+## Tech Stack & Key Choices
 - **Build Engine:** Vite (Optimized production asset bundles)
 - **Framework:** React JS (Modular component tree)
 - **Styling:** Tailwind CSS (Utility-first, pixel-accurate layout)
 - **Icons:** Lucide React
 - **Fonts:** Google Fonts matching Figma typography
 
-## ✅ Project Objective
+##  Project Objective
 Convert a high-fidelity Figma user interface design into a fully functional, highly responsive, and pixel-perfect web application using React.
 
-## 📌 Key Assignment Goals
+##  Key Assignment Goals
 - Translate Figma layouts, spacing, typography, and colors into React UI.
 - Use a component-based architecture with reusable, DRY React code.
 - Implement responsive design for desktop, tablet, and mobile.
 - Manage UI state for interactive elements like inputs, tabs, and search.
 - Organize and package the project cleanly for GitHub submission.
 
-## 📁 Project Structure
+##  Project Structure
 ```
 figma-assignment/
 ├── public/
@@ -53,7 +54,7 @@ figma-assignment/
 └── README.md
 ```
 
-## 📦 How to Run Locally
+##  How to Run Locally
 1. Clone the repository:
    ```bash
    git clone <your-repository-url>
@@ -69,19 +70,19 @@ figma-assignment/
    ```
 4. Open the app in the browser at the URL shown in the terminal.
 
-## 🎯 Features Included
+##  Features Included
 - Responsive dashboard layout with sidebar and top navigation.
 - Reusable UI components for cards, inputs, buttons, and forms.
 - Tailwind CSS design-token customization for colors and spacing.
 - Clean, consistent component hierarchy for scalability.
 - Pixel-perfect implementation aligned to Figma design guidelines.
 
-## 🧩 Notes for Reviewers
+##  Notes for Reviewers
 - The project follows a modular component structure.
 - Tailwind classes are used for exact spacing and typography.
 - The app is ready for deployment and GitHub portfolio sharing.
 
-## 💡 Optional Next Steps
+##  Optional Next Steps
 - Add actual Figma asset exports to `src/assets/`.
 - Improve accessibility with focus states and ARIA labels.
 - Add form validation and interactive state handling.
